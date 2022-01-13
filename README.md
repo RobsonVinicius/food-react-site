@@ -1,3 +1,51 @@
+## Food React Site
+
+Este projeto tem como objetivo exercitar os conhecimentos em React js, criando um simples site de um fast food.
+
+<br>
+
+## Em breve Image Preview
+![Preview Project](src/images/preview.jpg)
+
+<br>
+
+## Tecnologias
+
+Tecnologia | Descrição | Versão | Site
+------------ | ------------- | ------------ | ------------
+React JS | Uma biblioteca JavaScript para criar interfaces de usuário | v17.0.2 | https://pt-br.reactjs.org/
+React Router DOM | DOM bindings for React Router | v5.2.0 | https://yarnpkg.com/package/react-router-dom
+React Icons | Include popular icons in your React projects | v4.2.0 | https://react-icons.github.io/react-icons/
+Material UI | Description coming soon | v5.2.7 | https://mui.com/pt/
+
+<br>
+
+## Preview Demo Live (em construção)
+ 
+https://robsonvinicius.github.io/food-react-site/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
