@@ -35,6 +35,12 @@ https://robsonvinicius.github.io/food-react-site/
 
 <br><br><br><br><br><br><br>
 
+## NOTE:
+
+
+### REACT ROUTER DOM MODIFIED SWITCH FOR ROUTES
+https://stackoverflow.com/questions/63124161/attempted-import-error-switch-is-not-exported-from-react-router-dom
+
 
 
 
