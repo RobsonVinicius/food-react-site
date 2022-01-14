@@ -39,7 +39,7 @@ https://robsonvinicius.github.io/food-react-site/
 
 
 ### REACT ROUTER DOM MODIFIED SWITCH FOR ROUTES
-No routes matched location "/"
+https://stackoverflow.com/questions/63124161/attempted-import-error-switch-is-not-exported-from-react-router-dom
 
 
 
