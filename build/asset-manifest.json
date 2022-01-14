@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/food-react-site/static/css/main.1b7448e4.css",
-    "main.js": "/food-react-site/static/js/main.58dbcf64.js",
+    "main.js": "/food-react-site/static/js/main.8693b225.js",
     "static/media/logo.png": "/food-react-site/static/media/logo.019682feddc6460646b2.png",
     "static/media/food.jpeg": "/food-react-site/static/media/food.05892fe97cce26a5d9e5.jpeg",
     "index.html": "/food-react-site/index.html",
     "main.1b7448e4.css.map": "/food-react-site/static/css/main.1b7448e4.css.map",
-    "main.58dbcf64.js.map": "/food-react-site/static/js/main.58dbcf64.js.map"
+    "main.8693b225.js.map": "/food-react-site/static/js/main.8693b225.js.map"
   },
   "entrypoints": [
     "static/css/main.1b7448e4.css",
-    "static/js/main.58dbcf64.js"
+    "static/js/main.8693b225.js"
   ]
 }
