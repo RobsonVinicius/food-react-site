@@ -35,6 +35,12 @@ https://robsonvinicius.github.io/food-react-site/
 
 <br><br><br><br><br><br><br>
 
+## NOTE:
+
+
+### REACT ROUTER DOM MODIFIED SWITCH FOR ROUTES
+No routes matched location "/"
+
 
 
 
