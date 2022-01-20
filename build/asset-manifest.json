@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/food-react-site/static/css/main.42ade1bc.css",
+    "main.css": "/food-react-site/static/css/main.d6b1fb0a.css",
     "main.js": "/food-react-site/static/js/main.50a7121f.js",
     "static/media/rajasthani.jpg": "/food-react-site/static/media/rajasthani.ae32883353b0f39a3804.jpg",
     "static/media/logo.png": "/food-react-site/static/media/logo.019682feddc6460646b2.png",
@@ -11,11 +11,11 @@
     "static/media/gujrati.jpeg": "/food-react-site/static/media/gujrati.77bd2d3baa11e6cf3dcd.jpeg",
     "static/media/dosa.jpg": "/food-react-site/static/media/dosa.5c938f456ea86779ba13.jpg",
     "index.html": "/food-react-site/index.html",
-    "main.42ade1bc.css.map": "/food-react-site/static/css/main.42ade1bc.css.map",
+    "main.d6b1fb0a.css.map": "/food-react-site/static/css/main.d6b1fb0a.css.map",
     "main.50a7121f.js.map": "/food-react-site/static/js/main.50a7121f.js.map"
   },
   "entrypoints": [
-    "static/css/main.42ade1bc.css",
+    "static/css/main.d6b1fb0a.css",
     "static/js/main.50a7121f.js"
   ]
 }
