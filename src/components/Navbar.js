@@ -12,18 +12,20 @@ function Navbar() {
   return (
     <div className="navbar">
       <div className="leftSide" id={showLinks ? "open" : "close"}>
-        <img src={logo} />
+        <Link to="/food-react-site">
+          <img src={logo} />
+        </Link>
         <div className="hiddenLinks">
-          <Link to="/">Home</Link>
-          <Link to="/">Menu</Link>
-          <Link to="/">About</Link>
+          <Link to="/food-react-site">Home</Link>
+          <Link to="/food-react-site/menu">Menu</Link>
+          <Link to="/food-react-site/about">About</Link>
           <Link to="/">Contact</Link>
         </div>
       </div>      
       <div className="rightSide">
         <Link to="/food-react-site">Home</Link>
         <Link to="/food-react-site/menu">Menu</Link>
-        <Link to="/">About</Link>
+        <Link to="/food-react-site/about">About</Link>
         <Link to="/">Contact</Link>
         <button onClick={toggleNavbar}>
           <ReorderIcon/>

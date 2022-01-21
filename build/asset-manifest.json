@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/food-react-site/static/css/main.d6b1fb0a.css",
-    "main.js": "/food-react-site/static/js/main.50a7121f.js",
+    "main.css": "/food-react-site/static/css/main.ee5a0e22.css",
+    "main.js": "/food-react-site/static/js/main.c122f49d.js",
     "static/media/rajasthani.jpg": "/food-react-site/static/media/rajasthani.ae32883353b0f39a3804.jpg",
     "static/media/logo.png": "/food-react-site/static/media/logo.019682feddc6460646b2.png",
+    "static/media/masala.jpg": "/food-react-site/static/media/masala.f4dd64f4906d42ddcbdb.jpg",
     "static/media/food.jpg": "/food-react-site/static/media/food.160d70adb6a8fe5ecea0.jpg",
     "static/media/chhola.jpg": "/food-react-site/static/media/chhola.a1458ef1370699c23212.jpg",
     "static/media/paneer.jpg": "/food-react-site/static/media/paneer.f04d2c563fe596463e47.jpg",
@@ -11,11 +12,11 @@
     "static/media/gujrati.jpeg": "/food-react-site/static/media/gujrati.77bd2d3baa11e6cf3dcd.jpeg",
     "static/media/dosa.jpg": "/food-react-site/static/media/dosa.5c938f456ea86779ba13.jpg",
     "index.html": "/food-react-site/index.html",
-    "main.d6b1fb0a.css.map": "/food-react-site/static/css/main.d6b1fb0a.css.map",
-    "main.50a7121f.js.map": "/food-react-site/static/js/main.50a7121f.js.map"
+    "main.ee5a0e22.css.map": "/food-react-site/static/css/main.ee5a0e22.css.map",
+    "main.c122f49d.js.map": "/food-react-site/static/js/main.c122f49d.js.map"
   },
   "entrypoints": [
-    "static/css/main.d6b1fb0a.css",
-    "static/js/main.50a7121f.js"
+    "static/css/main.ee5a0e22.css",
+    "static/js/main.c122f49d.js"
   ]
 }
