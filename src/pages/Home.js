@@ -9,7 +9,7 @@ function Home() {
       <div className="headerContainer">
         <h1 style={{ fontWeight: "bold" }}> Food Corner </h1>
         <p>INDIAN FOOD AT A CLICK</p>
-        <Link to="/menu">
+        <Link to="/food-react-site/menu">
           <button> ORDER NOW </button>
         </Link>
       </div>

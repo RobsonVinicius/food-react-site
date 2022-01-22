@@ -19,14 +19,14 @@ function Navbar() {
           <Link to="/food-react-site">Home</Link>
           <Link to="/food-react-site/menu">Menu</Link>
           <Link to="/food-react-site/about">About</Link>
-          <Link to="/">Contact</Link>
+          <Link to="food-react-site/contact">Contact</Link>
         </div>
       </div>      
       <div className="rightSide">
         <Link to="/food-react-site">Home</Link>
         <Link to="/food-react-site/menu">Menu</Link>
         <Link to="/food-react-site/about">About</Link>
-        <Link to="/">Contact</Link>
+        <Link to="/food-react-site/contact">Contact</Link>
         <button onClick={toggleNavbar}>
           <ReorderIcon/>
         </button>
