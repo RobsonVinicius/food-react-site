@@ -4,8 +4,8 @@ Este projeto tem como objetivo exercitar os conhecimentos em React js, criando u
 
 <br>
 
-## Em breve Image Preview
-![Preview Project](src/assets/preview.jpg)
+## Preview
+![Preview Project](src/assets/preview.png)
 
 <br>
 
@@ -27,13 +27,14 @@ https://robsonvinicius.github.io/food-react-site/
 
 <br>
 
+<br><br><br><br><br><br><br>
 
 <hr>
 
 ### [Tutorial for Host React App on GitHub Pages](https://betterprogramming.pub/how-to-host-your-react-app-on-github-pages-for-free-919ad201a4cb)
 
 
-<br><br><br><br><br><br><br>
+<br><br><br>
 
 ## NOTE:
 
