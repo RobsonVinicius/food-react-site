@@ -20,7 +20,7 @@ Material UI | Description coming soon | v5.2.7 | https://mui.com/pt/
 
 <br>
 
-## Preview Demo Live (em construção)
+## Preview Live Demo (em construção)
  
 https://robsonvinicius.github.io/food-react-site/
 
