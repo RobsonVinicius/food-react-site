@@ -5,7 +5,7 @@ Este projeto tem como objetivo exercitar os conhecimentos em React js, criando u
 <br>
 
 ## Em breve Image Preview
-![Preview Project](src/images/preview.jpg)
+![Preview Project](src/assets/preview.jpg)
 
 <br>
 
