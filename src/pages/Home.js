@@ -1,6 +1,6 @@
-import { Button } from "@mui/material";
 import React from "react";
 import { Link } from "react-router-dom";
+import { Button } from "@mui/material";
 import BannerImage from "../assets/food.jpg";
 import '../styles/Home.css';
 
@@ -11,8 +11,7 @@ function Home() {
         <h1 style={{ fontWeight: "bold" }}> Food Corner </h1>
         <p>INDIAN FOOD AT A CLICK</p>
         <Link to="/food-react-site/menu">
-          <Button variant="outlined">ORDER NOW</Button>          
-          
+          <Button variant="outlined">ORDER NOW</Button>      
         </Link>
       </div>
     </div>
