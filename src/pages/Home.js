@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import { Button } from "@mui/material";
-import BannerImage from "../assets/food.jpg";
+import BannerImage from "../assets/home-salad.jpg";
 import '../styles/Home.css';
 
 function Home() {
@@ -11,7 +11,7 @@ function Home() {
         <h1 style={{ fontWeight: "bold" }}> Food Corner </h1>
         <p>INDIAN FOOD AT A CLICK</p>
         <Link to="/food-react-site/menu">
-          <Button variant="outlined">ORDER NOW</Button>      
+          <Button variant="contained">ORDER NOW</Button>      
         </Link>
       </div>
     </div>
