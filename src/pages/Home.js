@@ -9,7 +9,7 @@ function Home() {
     <div className="home" style={{ backgroundImage: `url(${BannerImage})` }}>
       <div className="headerContainer">
         <h1 style={{ fontWeight: "bold" }}> Food Corner </h1>
-        <p>INDIAN FOOD AT A CLICK</p>
+        <p>BRAZILIAN FOOD AT A CLICK</p>
         <Link to="/food-react-site/menu">
           <Button variant="contained">ORDER NOW</Button>      
         </Link>
