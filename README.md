@@ -1,6 +1,6 @@
 ## Food React Site
 
-Este projeto tem como objetivo exercitar os conhecimentos em React js, criando um simples site de um fast food.
+Este projeto tem como objetivo exercitar os conhecimentos em React js, criando um simples site de um restaurante.
 
 <br>
 
