@@ -4,8 +4,8 @@ Este projeto tem como objetivo exercitar os conhecimentos em React js, criando u
 
 <br>
 
-## Em breve Image Preview
-![Preview Project](src/images/preview.jpg)
+## Preview
+![Preview Project](src/assets/preview.png)
 
 <br>
 
@@ -20,20 +20,21 @@ Material UI | Description coming soon | v5.2.7 | https://mui.com/pt/
 
 <br>
 
-## Preview Demo Live (em construção)
+## Preview Live Demo (em construção)
  
 https://robsonvinicius.github.io/food-react-site/
 
 
 <br>
 
+<br><br><br><br><br><br><br>
 
 <hr>
 
 ### [Tutorial for Host React App on GitHub Pages](https://betterprogramming.pub/how-to-host-your-react-app-on-github-pages-for-free-919ad201a4cb)
 
 
-<br><br><br><br><br><br><br>
+<br><br><br>
 
 ## NOTE:
 
